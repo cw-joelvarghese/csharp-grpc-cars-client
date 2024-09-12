@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option csharp_namespace = "csharp_grpc_cars";
+
+package cars;
+
+service FinanceService {
+  rpc GetIsValueForMoney (CarsRequest) returns (CarsResponse);
+}
+
+message CarsRequest {
+  repeated int32 id = 1;
+}
+
+message CarsResponse {
+  repeated CarStatus cars = 1;
+}
+
+message CarStatus {
+  int32 id = 1;
+  bool IsValueForMoney = 2;
+}
