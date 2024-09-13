@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "PQesZB+RWvKBOo3uX06G+zUUUmLIJlCgI4l9iq9CQv+pfc975gD9WfOEePrWpmi8s2s3KCXxPho/hM9v9qOr1w==",
+  "dgSpecHash": "Yl58xNcA68w=",
   "success": true,
-  "projectFilePath": "/home/joel/Code/csharp-grpc-cars-client/csharp-grpc-cars-client.csproj",
+  "projectFilePath": "c:\\Users\\joel.v\\Desktop\\Code\\csharp-grpc-cars-client\\csharp-grpc-cars-client.csproj",
   "expectedPackageFiles": [
-    "/home/joel/.nuget/packages/google.protobuf/3.28.1/google.protobuf.3.28.1.nupkg.sha512",
-    "/home/joel/.nuget/packages/grpc.core.api/2.65.0/grpc.core.api.2.65.0.nupkg.sha512",
-    "/home/joel/.nuget/packages/grpc.net.client/2.65.0/grpc.net.client.2.65.0.nupkg.sha512",
-    "/home/joel/.nuget/packages/grpc.net.common/2.65.0/grpc.net.common.2.65.0.nupkg.sha512",
-    "/home/joel/.nuget/packages/grpc.tools/2.66.0/grpc.tools.2.66.0.nupkg.sha512",
-    "/home/joel/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512"
+    "C:\\Users\\joel.v\\.nuget\\packages\\google.protobuf\\3.28.1\\google.protobuf.3.28.1.nupkg.sha512",
+    "C:\\Users\\joel.v\\.nuget\\packages\\grpc.core.api\\2.65.0\\grpc.core.api.2.65.0.nupkg.sha512",
+    "C:\\Users\\joel.v\\.nuget\\packages\\grpc.net.client\\2.65.0\\grpc.net.client.2.65.0.nupkg.sha512",
+    "C:\\Users\\joel.v\\.nuget\\packages\\grpc.net.common\\2.65.0\\grpc.net.common.2.65.0.nupkg.sha512",
+    "C:\\Users\\joel.v\\.nuget\\packages\\grpc.tools\\2.66.0\\grpc.tools.2.66.0.nupkg.sha512",
+    "C:\\Users\\joel.v\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("csharp-grpc-cars-client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+852b4ccef803c3390b189aa3daa1bc68806376c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("csharp-grpc-cars-client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("csharp-grpc-cars-client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

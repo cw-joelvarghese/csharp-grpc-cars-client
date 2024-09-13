@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/joel/Code/csharp-grpc-cars-client/csharp-grpc-cars-client.csproj": {}
+    "c:\\Users\\joel.v\\Desktop\\Code\\csharp-grpc-cars-client\\csharp-grpc-cars-client.csproj": {}
   },
   "projects": {
-    "/home/joel/Code/csharp-grpc-cars-client/csharp-grpc-cars-client.csproj": {
+    "c:\\Users\\joel.v\\Desktop\\Code\\csharp-grpc-cars-client\\csharp-grpc-cars-client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/joel/Code/csharp-grpc-cars-client/csharp-grpc-cars-client.csproj",
+        "projectUniqueName": "c:\\Users\\joel.v\\Desktop\\Code\\csharp-grpc-cars-client\\csharp-grpc-cars-client.csproj",
         "projectName": "csharp-grpc-cars-client",
-        "projectPath": "/home/joel/Code/csharp-grpc-cars-client/csharp-grpc-cars-client.csproj",
-        "packagesPath": "/home/joel/.nuget/packages/",
-        "outputPath": "/home/joel/Code/csharp-grpc-cars-client/obj/",
+        "projectPath": "c:\\Users\\joel.v\\Desktop\\Code\\csharp-grpc-cars-client\\csharp-grpc-cars-client.csproj",
+        "packagesPath": "C:\\Users\\joel.v\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\joel.v\\Desktop\\Code\\csharp-grpc-cars-client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/joel/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\joel.v\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -69,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
